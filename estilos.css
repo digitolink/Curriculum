@@ -1,0 +1,19 @@
+h1, h2{
+    color:blue;
+}
+h1{ 
+font-size: 4em;
+}
+li {
+    font-style: italic;
+    text-align: left;
+}
+.contact{
+    font-style: normal;
+}
+#titulo{
+    color:coral;
+}
+span.contact{
+    font-style: oblique;
+}
