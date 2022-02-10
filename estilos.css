@@ -31,3 +31,7 @@ body {
     width: 80%;
     background: burlywood;
 }
+
+img{
+    float:left;
+}
