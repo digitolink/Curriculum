@@ -19,8 +19,8 @@ li {
 #titulo{
     color:coral;
 }
-span.contact{
-    color:green;
+span.contact, .experiencia > span{
+    color:aqua;
 }
 
 body {
