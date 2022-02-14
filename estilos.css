@@ -3,11 +3,12 @@ h1, h2{
 }
 h1{ 
 font-size: 4em;
-background-color: red;
+background-color: rgb(0, 110, 255);
 border:solid 10px;
-border-color: blue;
-margin: 10px 20px 30px 40px;
+border-color: rgb(55, 0, 255);
+margin: 10px 0px 10px 0px;
 padding: 100px;
+color:white;
 }
 li {
     font-style: italic;
@@ -17,7 +18,7 @@ li {
     color: blueviolet;
 }
 #titulo{
-    color:coral;
+    color:blanchedalmond;
 }
 span.contact, .experiencia > span{
     color:aqua;
