@@ -9,6 +9,14 @@ function main(){
         )
     
     };
+    const counters = elements.map((item)=>{
+        return{
+            element:item,
+            counter:0
+        }
+    });
+    console.log(counters);
+
 }
 function imprimeHola(){
     console.log("Hola2");
