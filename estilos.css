@@ -1,5 +1,5 @@
-h1, h2{
-    color:blue;
+h2{
+    color:rgb(63, 9, 47);
 }
 h1{ 
 font-size: 4em;
@@ -15,13 +15,13 @@ li {
     text-align: left;
 }
 .contact{
-    color: blueviolet;
+    font-style: italic;
 }
 #titulo{
-    color:blanchedalmond;
+    color:rgba(43, 41, 39, 0.911);
 }
 span.contact, .experiencia > span{
-    color:aqua;
+    color:rgb(88, 114, 114);
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 }
 .wrapper{
     width: 80%;
-    background: burlywood;
+    background: rgb(226, 215, 200);
 }
 
 img{
