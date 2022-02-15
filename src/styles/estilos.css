@@ -41,8 +41,19 @@ img{
 .pie{
     background-color: black;
     color: aliceblue;
-    display:grid;
+    display:block;
 }
 .habilidades{
+    /*float:right;*/
     
+}
+
+.experiencia {
+    
+
+.experiencia > section {
+    width: 50%;
+}
+.experiencia > section > * {
+
 }
