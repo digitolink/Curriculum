@@ -43,14 +43,15 @@ img{
     color: aliceblue;
     display:block;
 }
-.habilidades{
-    /*float:right;*/
+.habilidades >section{
+    display:flex;
+    justify-content:flex-end;
     
 }
 
 .experiencia {
     
-
+}
 .experiencia > section {
     width: 50%;
 }
