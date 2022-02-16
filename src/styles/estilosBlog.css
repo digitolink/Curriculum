@@ -12,10 +12,9 @@
    
 }
 .enlinea{
-    display:inline;
+    display:flex;
     
 }
 .anchomitad{
     width: 50%;
-
 }
