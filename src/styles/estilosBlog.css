@@ -3,8 +3,19 @@
     border-color:blue;
     margin: 10px 0px 10px 0px;
     padding: 10px;
+    
+}
+.recuadroNoticia{
+    border: solid 5px;
+    border-color:blue;
+   
+   
 }
 .menu ul{
     display:inline;
-    font-weight: 30px;
+    
+}
+.anchomitad{
+    width: 50%;
+
 }
