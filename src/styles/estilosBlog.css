@@ -1,8 +1,8 @@
 .recuadro{
     border: solid 5px;
     border-color:blue;
-    /*margin: 10px 0px 10px 0px;
-    padding: 10px;*/
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
 }
 
 .recuadroNoticia{
@@ -12,7 +12,7 @@
 }
 
 .anchomitad{
-    width: 49%;
+    width: 48%;
     display:inline-table;
-    box-sizing: border-box;
+    /*box-sizing: content-box;*/
 }
