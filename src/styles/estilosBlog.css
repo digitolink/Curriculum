@@ -15,4 +15,8 @@
     width: 48%;
     display:inline-table;
     /*box-sizing: content-box;*/
+    
+}
+.menu{
+    display:inline-table;
 }
