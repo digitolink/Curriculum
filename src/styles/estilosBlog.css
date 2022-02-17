@@ -1,9 +1,8 @@
 .recuadro{
     border: solid 5px;
     border-color:blue;
-    margin: 10px 0px 10px 0px;
-    padding: 10px;
-    
+    /*margin: 10px 0px 10px 0px;
+    padding: 10px;*/
 }
 
 .recuadroNoticia{
@@ -11,10 +10,9 @@
     border-color:blue;
    
 }
-.enlinea{
-    display:flex;
-    
-}
+
 .anchomitad{
-    width: 50%;
+    width: 49%;
+    display:inline-table;
+    box-sizing: border-box;
 }
