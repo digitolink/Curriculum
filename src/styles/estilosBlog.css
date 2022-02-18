@@ -12,11 +12,15 @@
 }
 
 .anchomitad{
-    width: 48%;
+    width: 49%;
     display:inline-table;
     /*box-sizing: content-box;*/
     
 }
 .menu{
-    display:inline-table;
+    display:inline-block;
+    border: solid 3px;
+    border-color:green;
+    padding: 10px;
+    background-color: bisque;
 }
