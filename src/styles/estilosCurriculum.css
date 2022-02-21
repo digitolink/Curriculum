@@ -11,7 +11,6 @@ padding: 10px;
 color:white;
 }
 li {
-    font-style: italic;
     text-align: left;
 }
 .contact{
@@ -24,25 +23,11 @@ span.contact, .experiencia > span{
     color:rgb(88, 114, 114);
 }
 
-body {
-    display:flex;
-    justify-content: center;
-}
-.wrapper{
-    width: 80%;
-    background: rgb(226, 215, 200);
-}
-
 img{
     float:right;
     width:60px;
 }
 
-.pie{
-    background-color: black;
-    color: aliceblue;
-    display:block;
-}
 .habilidades{
     display:inline-table;
     width:48%;
@@ -57,3 +42,4 @@ img{
     display:inline-table;
     width: 48%;
 }
+
