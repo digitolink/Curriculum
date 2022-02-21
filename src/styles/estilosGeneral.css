@@ -1,0 +1,20 @@
+.menu{
+    display:inline-block;
+    border: solid 3px;
+    border-color:green;
+    padding: 10px;
+    background-color: bisque;
+}
+body {
+    display:flex;
+    justify-content: center;
+}
+.wrapper{
+    width: 80%;
+    background: rgb(226, 215, 200);
+}
+
+.pie{
+    background-color: black;
+    color: aliceblue;
+}
