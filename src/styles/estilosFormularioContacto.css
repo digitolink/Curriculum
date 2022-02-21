@@ -17,3 +17,10 @@ button{
     background-color: rgb(231, 202, 204);
     border-radius: 15px;
 }
+
+.recuadroContacto{
+    border: solid 5px;
+    border-color:blue;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+}
