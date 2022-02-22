@@ -28,3 +28,7 @@ button{
 .telefono{
     color:red;
 }
+
+td,table{
+    border: solid 2px;
+}
